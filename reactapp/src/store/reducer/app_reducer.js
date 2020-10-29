@@ -1,6 +1,6 @@
 const INITIAL_STATE = {
     app_name: "Chat Application",
-    app_id: "9658454",
+    app_id: "ID: 9658454",
 
 }
 

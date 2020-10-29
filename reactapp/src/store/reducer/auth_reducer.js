@@ -1,6 +1,16 @@
 const INITIAL_STATE = {
-    name: "Rameez Qazi",
-    email: "rameez.qazi23@gmail.com",
+    users: [{
+        name: "Rameez Qazi",
+        email: "rameez.qazi23@gmail.com",
+        age: '22',
+    },
+    {
+        name: "Umair",
+        email: "umair@gmail.com",
+    }
+]
+    // name: "Rameez Qazi",
+    // email: "rameez.qazi23@gmail.com",
     
 }
 
